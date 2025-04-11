@@ -22,14 +22,6 @@ Our platform serves as an **information bridge** between government policies and
 - 💡 **Minimal UI/UX** tailored for low-bandwidth devices
 - 📎 **Links to authentic sources** for deeper info
 
----
-
-## 📸 Screenshot
-
-![Project Screenshot](/Users/arfathussain/Desktop/Screenshot%202025-04-11%20at%206.30.53%E2%80%AFAM.png)
-
----
-
 ## 📂 Local Usage
 
 This is a static web project. You can run it locally by:
